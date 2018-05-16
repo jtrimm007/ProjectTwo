@@ -1,0 +1,7 @@
+Flathead:Use this to open paint cans:150:Woodworking:true:15:10.0
+M1 Garand:600:750:0.3:6
+STG 44:800:900:7.92:30
+KA-BAR:400:500:11:9
+NR 43:500:600:11:10
+blabla:33.5:Hobby:Hardware [Name: Flathead Message: Use this to open paint cans Points: 150] Tool [ Type: Woodworking Message: true Percent Dangerous: 15] ScrewDriver [ Length: 10.0]:5.5:false
+satbla:34.5:Satie:Hardware [Name: Garden Hammer Message: Good to use driving in tomato steaks Points: 200] Tool [ Type: Garden Message: true Percent Dangerous: 20] Hammer [weight: 8.0]:4.3:false
